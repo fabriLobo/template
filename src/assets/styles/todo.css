@@ -1,0 +1,23 @@
+.todo-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.todo-input-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.todo-add-icon {
+  font-size: 42px;
+  margin-left: 8px;
+}
+
+.todo-list li {
+  display: flex;
+  align-items: center;
+}
+.todo-delete-icon {
+  margin-right: 8px;
+}

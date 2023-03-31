@@ -1,0 +1,34 @@
+{
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  },
+  "extends": ["eslint:recommended", "plugin:react/recommended"],
+  "plugins": ["react", "prettier", "react-hooks"],
+  "rules": {
+    // "no-console": ["warn", { "allow": ["warn", "error"] }],
+    // "no-debugger": "error",
+    // "import/no-commonjs": "off",
+    // "import/no-extraneous-dependencies": "off",
+    // "no-unused-vars": [
+    //   "warn",
+    //   { "args": "none", "varsIgnorePattern": "^_", "ignoreRestSiblings": true }
+    // ],
+    // "react-hooks/rules-of-hooks": "error",
+    // "react-hooks/exhaustive-deps": "error",
+    // "no-var": "error",
+    // "prefer-const": "error",
+    // "no-multiple-empty-lines": ["error", { "max": 1 }],
+    // "no-trailing-spaces": "error",
+    // "comma-dangle": ["error", "always-multiline"],
+    // "arrow-parens": ["error", "as-needed"],
+    // "arrow-spacing": "error",
+    // "no-return-await": "error",
+    // "jsx-quotes": ["error", "prefer-double"]
+  },
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaVersion": 2015
+  }
+}

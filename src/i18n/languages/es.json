@@ -1,0 +1,17 @@
+{
+  "menu-text-login": "Login",
+  "menu-text-fetch": "Recibir datos",
+  "menu-text-todo": "Lista de tareas con redux",
+  "menu-text-todo-with-recoil": "Lista de tareas con recoil",
+  "language-select-label": "Seleccione el idioma",
+  "language-select-en-option": "English",
+  "language-select-es-option": "Español",
+  "login-title": "Inicio de sesión",
+  "login-submit-btn-text": "Iniciar sesión",
+  "login-submit-form-username": "Nombre de usuario",
+  "login-submit-form-password": "Contraseña",
+  "login-submit-form-helper-text": "¿Olvidaste la contraseña?",
+  "todo-title": "Lista de tareas",
+  "home-page-title": "¡Página inicial!",
+  "logout-btn-text": "Cerrar sesión"
+}

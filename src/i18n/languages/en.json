@@ -1,0 +1,17 @@
+{
+  "menu-text-login": "Login",
+  "menu-text-fetch": "Fetching data",
+  "menu-text-todo": "Todo list with redux",
+  "menu-text-todo-with-recoil": "Todo list with recoil",
+  "language-select-label": "Select language",
+  "language-select-en-option": "English",
+  "language-select-es-option": "Español",
+  "login-title": "Login",
+  "login-submit-btn-text": "Log in",
+  "login-submit-form-username": "Username",
+  "login-submit-form-password": "Password",
+  "login-submit-form-helper-text": "Forgot your password?",
+  "todo-title": "Todo List",
+  "home-page-title": "Home page!",
+  "logout-btn-text": "Logout"
+}
